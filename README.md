@@ -34,25 +34,24 @@
 
 ## 🚀 Highlight Projects
 
-### **Health-Predictor**
-![Stars](https://img.shields.io/github/stars/Sahilbhatane/Health-Predictor?style=for-the-badge&color=0D1117&logo=github)
-![Forks](https://img.shields.io/github/forks/Sahilbhatane/Health-Predictor?style=for-the-badge&color=0D1117&logo=github)
-![Last Commit](https://img.shields.io/github/last-commit/Sahilbhatane/Health-Predictor?style=for-the-badge&color=0D1117&logo=github)
+### Health-Predictor
+[![GitHub stars](https://img.shields.io/github/stars/Sahilbhatane/Health-Predictor?style=for-the-badge)](https://github.com/Sahilbhatane/Health-Predictor/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/Sahilbhatane/Health-Predictor?style=for-the-badge)](https://github.com/Sahilbhatane/Health-Predictor/network/members)
+[![GitHub last commit](https://img.shields.io/github/last-commit/Sahilbhatane/Health-Predictor?style=for-the-badge)](https://github.com/Sahilbhatane/Health-Predictor/commits/main)
 
-- Multi-disease prediction app using ML  
-- Built with **Streamlit** + **Python** + **ML Models**  
-
----
-
-### **P2R-project-review-AI**
-![Stars](https://img.shields.io/github/stars/Sahilbhatane/P2R-project-review-AI?style=for-the-badge&color=0D1117&logo=github)
-![Forks](https://img.shields.io/github/forks/Sahilbhatane/P2R-project-review-AI?style=for-the-badge&color=0D1117&logo=github)
-![Last Commit](https://img.shields.io/github/last-commit/Sahilbhatane/P2R-project-review-AI?style=for-the-badge&color=0D1117&logo=github)
-
-- Accepts GitHub repo links or uploads  
-- Analyzes project structure using tree-based mapping  
+- Multi-disease prediction app using ML
+- Built with **Streamlit** + **Python** + **ML Models**
 
 ---
+
+### P2R-project-review-AI
+[![GitHub stars](https://img.shields.io/github/stars/Sahilbhatane/P2R-project-review-AI?style=for-the-badge)](https://github.com/Sahilbhatane/P2R-project-review-AI/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/Sahilbhatane/P2R-project-review-AI?style=for-the-badge)](https://github.com/Sahilbhatane/P2R-project-review-AI/network/members)
+[![GitHub last commit](https://img.shields.io/github/last-commit/Sahilbhatane/P2R-project-review-AI?style=for-the-badge)](https://github.com/Sahilbhatane/P2R-project-review-AI/commits/main)
+
+- Accepts GitHub repo links or uploads
+- Analyzes project structure using tree-based mapping
+
 
 ## 💻 Tech Stack & Tools
 

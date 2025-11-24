@@ -6,15 +6,15 @@
 
 ---
 
-## 👨‍💻 About Me
-- 🎓 Computer Science student from Pune, India  
-- 💡 Passionate about **Game Development**, **Machine Learning**, and **Web Development**  
-- 🛠 Skilled in **Python**, **C++**, **C#**, **Godot**, **Unreal Engine**, **Streamlit**, **TailwindCSS**  
-- 🌱 Always learning, experimenting, and building cool stuff  
+##  About Me
+-  Computer Science student from Pune, India  
+-  Passionate about **Game Development**, **Machine Learning**, and **Web Development**  
+-  Skilled in **Python**, **C++**, **C#**, **Godot**, **Unreal Engine**, **Streamlit**, **TailwindCSS**  
+-  Always learning, experimenting, and building cool stuff  
 
 ---
 
-## 📊 GitHub Stats (Dark Mode)
+##  GitHub Stats (Dark Mode)
 
 ![Sahil's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sahilbhatane&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sahilbhatane&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)
@@ -22,17 +22,17 @@
 
 ---
 
-## 🏆 GitHub Achievements
+##  GitHub Achievements
 ![trophy](https://github-profile-trophy.vercel.app/?username=Sahilbhatane&theme=onestar&no-frame=true&row=1)
 
 ---
 
-## 📈 Activity Graph
+##  Activity Graph
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sahilbhatane&theme=github-dark&bg_color=0D1117&hide_border=true)
 
 ---
 
-## 🚀 Highlight Projects
+##  Highlight Projects
 
 ### Health-Predictor
 [![GitHub stars](https://img.shields.io/github/stars/Sahilbhatane/Health-Predictor?style=for-the-badge)](https://github.com/Sahilbhatane/Health-Predictor/stargazers)
@@ -53,7 +53,7 @@
 - Analyzes project structure using tree-based mapping
 
 
-## 💻 Tech Stack & Tools
+##  Tech Stack & Tools
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,cpp,cs,java,javascript,html,css,tailwind,flutter,godot,unreal,git,github,vscode" />
@@ -61,12 +61,12 @@
 
 ---
 
-## 📌 Visitor Count
+##  Visitor Count
 ![Visitor Count](https://komarev.com/ghpvc/?username=Sahilbhatane&color=00F0FF&style=flat-square&label=Visitors)
 
 ---
 
-## 🐍 Contribution Snake
+##  Contribution Snake
 ![snake gif](https://github.com/Sahilbhatane/Sahilbhatane/blob/output/github-contribution-grid-snake.gif)
 
 ---

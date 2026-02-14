@@ -20,7 +20,7 @@ Open source contributor and CS student from Pune, India. I build tools and contr
 
 ## Bounty
 
-**Total Bounty Earned:** $5,000 — [Cortex](https://github.com/Sahilbhatane/Cortex-Extension) organization
+**Total Bounty Earned:** $5,000 — [CX Linux](https://github.com/Sahilbhatane/Cortex-Extension) organization
 
 ---
 

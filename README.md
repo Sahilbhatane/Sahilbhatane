@@ -8,7 +8,7 @@ Open source contributor and CS student from Pune, India. I build tools and contr
 
 ---
 
-## 📊 GitHub Statistics
+## GitHub Statistics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sahilbhatane&show_icons=true&theme=transparent&hide_border=true&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&bg_color=0d1117&count_private=true&include_all_commits=true" alt="GitHub Stats" height="180"/>
@@ -21,7 +21,7 @@ Open source contributor and CS student from Pune, India. I build tools and contr
 
 ---
 
-## 📈 Activity Graph
+## Activity Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sahilbhatane&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9" alt="Activity Graph" width="95%"/>
@@ -29,13 +29,13 @@ Open source contributor and CS student from Pune, India. I build tools and contr
 
 ---
 
-## 💰 Bounty
+## Bounty
 
 **Total Bounty Earned:** $5,000 — [CX Linux](https://github.com/Sahilbhatane/Cortex-Extension) organization
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## Tech Stack & Tools
 
 **Languages:** Python, C++, C#, Java, JavaScript, HTML, CSS  
 **Frameworks & Libraries:** Streamlit, TailwindCSS, Flutter, Next.js  

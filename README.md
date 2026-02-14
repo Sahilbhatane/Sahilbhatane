@@ -46,7 +46,7 @@ Open source contributor and CS student from Pune, India. I build tools and contr
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sahilbhatane&color=58a6ff&style=flat-square&label=Profile%20Views" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=Sahilbhatane&color=58a6ff&style=flat-square&label=Profile+Views" alt="Profile Views"/>
 </p>
 
 </div>
